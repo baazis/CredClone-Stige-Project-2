@@ -10,5 +10,7 @@
 
 ### Video
 
+#### In this video first part was shown thr frontend design of the website and then I minimized the screen to show the unresponsive nature of website.
+
 https://user-images.githubusercontent.com/58622363/128812962-da85b094-bb52-496c-9775-ddcb95152a3e.mp4
 
