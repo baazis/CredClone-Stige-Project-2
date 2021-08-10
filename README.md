@@ -14,3 +14,8 @@
 
 https://user-images.githubusercontent.com/58622363/128812962-da85b094-bb52-496c-9775-ddcb95152a3e.mp4
 
+# Cred-Clone-2 ( Responsive )
+
+### Clone Cred Website RESPONSIVE- https://baazis.github.io/Cred-Clone-responsive-Stige-P-3/
+### Github- https://github.com/baazis/Cred-Clone-responsive-Stige-P-3/
+
