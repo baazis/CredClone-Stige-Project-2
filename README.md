@@ -5,3 +5,5 @@
 ## This is not a responsive Cred website clone. I used page source of Cred website to get some help. 
 
 ## Cred Website : https://cred.club/
+
+### Clone Cred Website- https://baazis.github.io/CredClone-Stige-Project-2/
